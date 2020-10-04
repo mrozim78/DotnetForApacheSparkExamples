@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Spark.CSharp.Example.StreetCounter", "Microsoft.Spark.CSharp.Example.StreetCounter\Microsoft.Spark.CSharp.Example.StreetCounter.csproj", "{EED938CC-9F23-45F8-8FEB-55628D74F628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED938CC-9F23-45F8-8FEB-55628D74F628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED938CC-9F23-45F8-8FEB-55628D74F628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED938CC-9F23-45F8-8FEB-55628D74F628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED938CC-9F23-45F8-8FEB-55628D74F628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
